@@ -2,7 +2,7 @@
 # coding:utf-8
 @Time    : 2021/06/08
 @Author  : jiangwei
-@mail    : jiangwei1@kylinos.cn
+@mail    : qq804022023@gmail.com
 @File    : 09排列组合的迭代.py
 @Desc    : 09排列组合的迭代
 @Software: PyCharm

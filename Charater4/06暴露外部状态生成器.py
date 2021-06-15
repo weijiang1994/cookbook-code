@@ -2,7 +2,7 @@
 # coding:utf-8
 @Time    : 2021/06/08
 @Author  : jiangwei
-@mail    : jiangwei1@kylinos.cn
+@mail    : qq804022023@gmail.com
 @File    : 06暴露外部状态生成器.py
 @Desc    : 如果你想暴露一些生成器函数属性给外部调用者，可以通过生成器类来实现
 @Software: PyCharm

@@ -2,7 +2,7 @@
 # coding:utf-8
 @Time    : 2021/06/08
 @Author  : jiangwei
-@mail    : jiangwei1@kylinos.cn
+@mail    : qq804022023@gmail.com
 @File    : 10遍历多个序列.py
 @Desc    : 10遍历多个序列
 @Software: PyCharm

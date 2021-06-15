@@ -2,7 +2,7 @@
 # coding:utf-8
 @Time    : 2021/06/08
 @Author  : jiangwei
-@mail    : jiangwei1@kylinos.cn
+@mail    : qq804022023@gmail.com
 @File    : 05反向迭代 .py
 @Desc    : my_reverse
 @Software: PyCharm
