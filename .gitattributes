@@ -1,2 +1,4 @@
 *.* linguist-language=python
 *.txt linguist-language=txt
+*.log.1 linguist-language=python
+*.log linguist-language=python
