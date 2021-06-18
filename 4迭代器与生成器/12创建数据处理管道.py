@@ -46,7 +46,7 @@ def gen_grep(pattern, lines):
             yield line
 
 
-lognames = find_file('access.log*', '/home/jiangwei/文档/cookbook/Chapter4/nginx-log')
+lognames = find_file('access.log*', '/home/jiangwei/文档/cookbook/4迭代器与生成器/nginx-log')
 files = gen_opener(lognames)
 lines = gen_concatenate(files)
 aim_lines = gen_grep('(?i)python', lines)
